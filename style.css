@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Itim&display=swap");
+* {
+  padding: o;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+header {
+  background-color: rgb(3, 114, 3);
+  background-image: url("./imagens/mariah betinho 1.png");
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  justify-content: center;
+  align-items: start;
+}
+
+h1 {
+  width: 70vw;
+  text-align: center;
+  color: rgb(224, 57, 57);
+  font-size: 6rem;
+  margin-top: 30px;
+}/*# sourceMappingURL=style.css.map */
